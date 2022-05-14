@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: smsVerificationCode
+  redis:
+    host: localhost # Redis?????
+    port: 6379
+    password: # Redis?????????????
+    database: 0
